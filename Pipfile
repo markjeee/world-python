@@ -9,7 +9,8 @@ verify_ssl = true
 name = "fury"
 
 [packages]
-setuptools = "*"
 
 [dev-packages]
 setuptools = "*"
+pytest = "*"
+nose = "*"
